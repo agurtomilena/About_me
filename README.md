@@ -59,15 +59,6 @@ Soy un apasionado de la lectura 📖✨, especialmente cuando el clima se viste 
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dracula" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ## 💬 ¡Conectemos!
 
 ¿Quieres hablar de software 💻, Inteligencia Artificial 🤖, compartir recomendaciones de libros 📚 o debatir sobre historia y viajes ✈️? 
