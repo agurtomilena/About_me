@@ -10,7 +10,7 @@
 
 ## 🌟 Sobre Mí / About Me
 
-¡Hola! 👋 Soy **Software Developer** apasionado por la construcción de aplicaciones robustas, eficientes y con un diseño impecable 🚀. Mi enfoque abarca tanto el desarrollo **Backend** (Java y Node.js) ☕⚡ como el **Frontend** moderno 🌐, complementado con las posibilidades de la **Inteligencia Artificial** 🤖 y herramientas de productividad como **Microsoft Office** 📊.
+¡Hola! 👋 Soy **Software Developer** apasionado por la construcción de aplicaciones robustas, eficientes y con un diseño impecable 🚀. Mi enfoque abarca tanto el desarrollo **Backend** (Java) ☕ como el **Frontend** moderno 🌐, complementado con las posibilidades de la **Inteligencia Artificial** 🤖 y herramientas de productividad como **Microsoft Office** 📊.
 
 Cuando me desconecto del código ⌨️, me convierto en un explorador del tiempo y el espacio ⏳: viajo por el mundo ✈️, disfruto la historia y el arte 🏛️🎨, y escucho música que me transporta a otras épocas 🎧🎻.
 
@@ -22,16 +22,12 @@ Cuando me desconecto del código ⌨️, me convierto en un explorador del tiemp
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🎨 Frontend & JS Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🧠 Innovación & Herramientas
